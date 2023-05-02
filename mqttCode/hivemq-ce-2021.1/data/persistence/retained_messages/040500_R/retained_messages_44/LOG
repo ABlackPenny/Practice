@@ -1,0 +1,226 @@
+2021/05/25-13:09:42.616840 cdc RocksDB version: 6.13.3
+2021/05/25-13:09:42.617914 cdc Git sha rocksdb_build_git_sha:@97bf78721b7d9c1fa25e6a9b38b693d45e85196d@
+2021/05/25-13:09:42.618077 cdc Compile date Oct 15 2020
+2021/05/25-13:09:42.618220 cdc DB SUMMARY
+2021/05/25-13:09:42.618255 cdc DB Session ID:  JNWVZ5HM2426GQEKD54M
+2021/05/25-13:09:42.618788 cdc CURRENT file:  CURRENT
+2021/05/25-13:09:42.619802 cdc IDENTITY file:  IDENTITY
+2021/05/25-13:09:42.619995 cdc MANIFEST file:  MANIFEST-000005 size: 59 Bytes
+2021/05/25-13:09:42.620029 cdc SST files in D:\3310ass3\hivemq-ce-2021.1\data\persistence\retained_messages\040500_R\retained_messages_44 dir, Total Num: 0, files: 
+2021/05/25-13:09:42.620116 cdc Write Ahead Log file in D:\3310ass3\hivemq-ce-2021.1\data\persistence\retained_messages\040500_R\retained_messages_44: 000006.log size: 209 ; 
+2021/05/25-13:09:42.620582 cdc                         Options.error_if_exists: 0
+2021/05/25-13:09:42.620599 cdc                       Options.create_if_missing: 1
+2021/05/25-13:09:42.620612 cdc                         Options.paranoid_checks: 1
+2021/05/25-13:09:42.620666 cdc                                     Options.env: 0000025AF61B6070
+2021/05/25-13:09:42.620680 cdc                                      Options.fs: Legacy File System
+2021/05/25-13:09:42.620713 cdc                                Options.info_log: 0000025AFCAA4540
+2021/05/25-13:09:42.620732 cdc                Options.max_file_opening_threads: 16
+2021/05/25-13:09:42.620760 cdc                              Options.statistics: 0000025AF6177BA0
+2021/05/25-13:09:42.620781 cdc                               Options.use_fsync: 0
+2021/05/25-13:09:42.620794 cdc                       Options.max_log_file_size: 512000
+2021/05/25-13:09:42.620825 cdc                  Options.max_manifest_file_size: 1073741824
+2021/05/25-13:09:42.620852 cdc                   Options.log_file_time_to_roll: 0
+2021/05/25-13:09:42.620917 cdc                       Options.keep_log_file_num: 2
+2021/05/25-13:09:42.621033 cdc                    Options.recycle_log_file_num: 0
+2021/05/25-13:09:42.621045 cdc                         Options.allow_fallocate: 1
+2021/05/25-13:09:42.621141 cdc                        Options.allow_mmap_reads: 0
+2021/05/25-13:09:42.621151 cdc                       Options.allow_mmap_writes: 0
+2021/05/25-13:09:42.621230 cdc                        Options.use_direct_reads: 0
+2021/05/25-13:09:42.621266 cdc                        Options.use_direct_io_for_flush_and_compaction: 0
+2021/05/25-13:09:42.621299 cdc          Options.create_missing_column_families: 0
+2021/05/25-13:09:42.621329 cdc                              Options.db_log_dir: 
+2021/05/25-13:09:42.621394 cdc                                 Options.wal_dir: D:\3310ass3\hivemq-ce-2021.1\data\persistence\retained_messages\040500_R\retained_messages_44
+2021/05/25-13:09:42.621425 cdc                Options.table_cache_numshardbits: 6
+2021/05/25-13:09:42.621512 cdc                         Options.WAL_ttl_seconds: 0
+2021/05/25-13:09:42.621831 cdc                       Options.WAL_size_limit_MB: 0
+2021/05/25-13:09:42.621847 cdc                        Options.max_write_batch_group_size_bytes: 1048576
+2021/05/25-13:09:42.621868 cdc             Options.manifest_preallocation_size: 4194304
+2021/05/25-13:09:42.622280 cdc                     Options.is_fd_close_on_exec: 1
+2021/05/25-13:09:42.622359 cdc                   Options.advise_random_on_open: 1
+2021/05/25-13:09:42.622861 cdc                    Options.db_write_buffer_size: 0
+2021/05/25-13:09:42.623498 cdc                    Options.write_buffer_manager: 0000025AF76499C0
+2021/05/25-13:09:42.623580 cdc         Options.access_hint_on_compaction_start: 1
+2021/05/25-13:09:42.623596 cdc  Options.new_table_reader_for_compaction_inputs: 0
+2021/05/25-13:09:42.623665 cdc           Options.random_access_max_buffer_size: 1048576
+2021/05/25-13:09:42.623680 cdc                      Options.use_adaptive_mutex: 0
+2021/05/25-13:09:42.623922 cdc                            Options.rate_limiter: 0000000000000000
+2021/05/25-13:09:42.624017 cdc     Options.sst_file_manager.rate_bytes_per_sec: 0
+2021/05/25-13:09:42.624738 cdc                       Options.wal_recovery_mode: 2
+2021/05/25-13:09:42.624791 cdc                  Options.enable_thread_tracking: 0
+2021/05/25-13:09:42.625608 cdc                  Options.enable_pipelined_write: 0
+2021/05/25-13:09:42.625634 cdc                  Options.unordered_write: 0
+2021/05/25-13:09:42.625687 cdc         Options.allow_concurrent_memtable_write: 1
+2021/05/25-13:09:42.625721 cdc      Options.enable_write_thread_adaptive_yield: 1
+2021/05/25-13:09:42.625755 cdc             Options.write_thread_max_yield_usec: 100
+2021/05/25-13:09:42.625823 cdc            Options.write_thread_slow_yield_usec: 3
+2021/05/25-13:09:42.625947 cdc                               Options.row_cache: None
+2021/05/25-13:09:42.626204 cdc                              Options.wal_filter: None
+2021/05/25-13:09:42.626220 cdc             Options.avoid_flush_during_recovery: 0
+2021/05/25-13:09:42.626313 cdc             Options.allow_ingest_behind: 0
+2021/05/25-13:09:42.626327 cdc             Options.preserve_deletes: 0
+2021/05/25-13:09:42.626426 cdc             Options.two_write_queues: 0
+2021/05/25-13:09:42.626467 cdc             Options.manual_wal_flush: 0
+2021/05/25-13:09:42.626516 cdc             Options.atomic_flush: 0
+2021/05/25-13:09:42.626547 cdc             Options.avoid_unnecessary_blocking_io: 0
+2021/05/25-13:09:42.626584 cdc                 Options.persist_stats_to_disk: 0
+2021/05/25-13:09:42.626597 cdc                 Options.write_dbid_to_manifest: 0
+2021/05/25-13:09:42.626610 cdc                 Options.log_readahead_size: 0
+2021/05/25-13:09:42.626620 cdc                 Options.file_checksum_gen_factory: Unknown
+2021/05/25-13:09:42.626670 cdc                 Options.best_efforts_recovery: 0
+2021/05/25-13:09:42.626681 cdc                Options.max_bgerror_resume_count: 2147483647
+2021/05/25-13:09:42.626821 cdc            Options.bgerror_resume_retry_interval: 1000000
+2021/05/25-13:09:42.626862 cdc             Options.max_background_jobs: 2
+2021/05/25-13:09:42.626897 cdc             Options.max_background_compactions: -1
+2021/05/25-13:09:42.626936 cdc             Options.max_subcompactions: 1
+2021/05/25-13:09:42.626978 cdc             Options.avoid_flush_during_shutdown: 0
+2021/05/25-13:09:42.627044 cdc           Options.writable_file_max_buffer_size: 1048576
+2021/05/25-13:09:42.627094 cdc             Options.delayed_write_rate : 16777216
+2021/05/25-13:09:42.627132 cdc             Options.max_total_wal_size: 0
+2021/05/25-13:09:42.627208 cdc             Options.delete_obsolete_files_period_micros: 21600000000
+2021/05/25-13:09:42.627285 cdc                   Options.stats_dump_period_sec: 0
+2021/05/25-13:09:42.627318 cdc                 Options.stats_persist_period_sec: 0
+2021/05/25-13:09:42.627397 cdc                 Options.stats_history_buffer_size: 65536
+2021/05/25-13:09:42.627863 cdc                          Options.max_open_files: -1
+2021/05/25-13:09:42.628172 cdc                          Options.bytes_per_sync: 0
+2021/05/25-13:09:42.628230 cdc                      Options.wal_bytes_per_sync: 0
+2021/05/25-13:09:42.628399 cdc                   Options.strict_bytes_per_sync: 0
+2021/05/25-13:09:42.628516 cdc       Options.compaction_readahead_size: 0
+2021/05/25-13:09:42.628557 cdc                  Options.max_background_flushes: -1
+2021/05/25-13:09:42.628603 cdc Compression algorithms supported:
+2021/05/25-13:09:42.628619 cdc 	kZSTD supported: 1
+2021/05/25-13:09:42.628664 cdc 	kSnappyCompression supported: 1
+2021/05/25-13:09:42.628784 cdc 	kBZip2Compression supported: 0
+2021/05/25-13:09:42.628869 cdc 	kZlibCompression supported: 1
+2021/05/25-13:09:42.628948 cdc 	kLZ4Compression supported: 1
+2021/05/25-13:09:42.629015 cdc 	kXpressCompression supported: 0
+2021/05/25-13:09:42.629081 cdc 	kLZ4HCCompression supported: 1
+2021/05/25-13:09:42.629116 cdc 	kZSTDNotFinalCompression supported: 1
+2021/05/25-13:09:42.629136 cdc Fast CRC32 supported: Supported on x86
+2021/05/25-13:09:42.631272 cdc [db\version_set.cc:4565] Recovering from manifest file: D:\3310ass3\hivemq-ce-2021.1\data\persistence\retained_messages\040500_R\retained_messages_44/MANIFEST-000005
+2021/05/25-13:09:42.631635 cdc [db\column_family.cc:592] --------------- Options for column family [default]:
+2021/05/25-13:09:42.631658 cdc               Options.comparator: leveldb.BytewiseComparator
+2021/05/25-13:09:42.631719 cdc           Options.merge_operator: None
+2021/05/25-13:09:42.631744 cdc        Options.compaction_filter: None
+2021/05/25-13:09:42.631846 cdc        Options.compaction_filter_factory: None
+2021/05/25-13:09:42.631858 cdc  Options.sst_partitioner_factory: None
+2021/05/25-13:09:42.631962 cdc         Options.memtable_factory: SkipListFactory
+2021/05/25-13:09:42.632167 cdc            Options.table_factory: BlockBasedTable
+2021/05/25-13:09:42.632703 cdc            table_factory options:   flush_block_policy_factory: FlushBlockBySizePolicyFactory (0000025AF49469D0)
+  cache_index_and_filter_blocks: 0
+  cache_index_and_filter_blocks_with_high_priority: 1
+  pin_l0_filter_and_index_blocks_in_cache: 0
+  pin_top_level_index_and_filter: 1
+  index_type: 0
+  data_block_index_type: 0
+  index_shortening: 1
+  data_block_hash_table_util_ratio: 0.750000
+  hash_index_allow_collision: 1
+  checksum: 1
+  no_block_cache: 0
+  block_cache: 0000025AF62D39D0
+  block_cache_name: LRUCache
+  block_cache_options:
+    capacity : 535126528
+    num_shard_bits : 6
+    strict_capacity_limit : 0
+    memory_allocator : None
+    high_pri_pool_ratio: 0.000
+  block_cache_compressed: 0000000000000000
+  persistent_cache: 0000000000000000
+  block_size: 32768
+  block_size_deviation: 10
+  block_restart_interval: 16
+  index_block_restart_interval: 1
+  metadata_block_size: 4096
+  partition_filters: 0
+  use_delta_encoding: 1
+  filter_policy: nullptr
+  whole_key_filtering: 1
+  verify_compression: 0
+  read_amp_bytes_per_bit: 0
+  format_version: 4
+  enable_index_compression: 1
+  block_align: 0
+2021/05/25-13:09:42.632732 cdc        Options.write_buffer_size: 16722704
+2021/05/25-13:09:42.632747 cdc  Options.max_write_buffer_number: 2
+2021/05/25-13:09:42.632758 cdc          Options.compression: Snappy
+2021/05/25-13:09:42.633140 cdc                  Options.bottommost_compression: Disabled
+2021/05/25-13:09:42.633155 cdc       Options.prefix_extractor: nullptr
+2021/05/25-13:09:42.633176 cdc   Options.memtable_insert_with_hint_prefix_extractor: nullptr
+2021/05/25-13:09:42.633192 cdc             Options.num_levels: 7
+2021/05/25-13:09:42.633258 cdc        Options.min_write_buffer_number_to_merge: 1
+2021/05/25-13:09:42.633300 cdc     Options.max_write_buffer_number_to_maintain: 0
+2021/05/25-13:09:42.633398 cdc     Options.max_write_buffer_size_to_maintain: 0
+2021/05/25-13:09:42.633495 cdc            Options.bottommost_compression_opts.window_bits: -14
+2021/05/25-13:09:42.633515 cdc                  Options.bottommost_compression_opts.level: 32767
+2021/05/25-13:09:42.633535 cdc               Options.bottommost_compression_opts.strategy: 0
+2021/05/25-13:09:42.633547 cdc         Options.bottommost_compression_opts.max_dict_bytes: 0
+2021/05/25-13:09:42.633558 cdc         Options.bottommost_compression_opts.zstd_max_train_bytes: 0
+2021/05/25-13:09:42.633645 cdc         Options.bottommost_compression_opts.parallel_threads: 1
+2021/05/25-13:09:42.633676 cdc                  Options.bottommost_compression_opts.enabled: false
+2021/05/25-13:09:42.633714 cdc            Options.compression_opts.window_bits: -14
+2021/05/25-13:09:42.633742 cdc                  Options.compression_opts.level: 32767
+2021/05/25-13:09:42.633760 cdc               Options.compression_opts.strategy: 0
+2021/05/25-13:09:42.633787 cdc         Options.compression_opts.max_dict_bytes: 0
+2021/05/25-13:09:42.633801 cdc         Options.compression_opts.zstd_max_train_bytes: 0
+2021/05/25-13:09:42.633815 cdc         Options.compression_opts.parallel_threads: 1
+2021/05/25-13:09:42.633825 cdc                  Options.compression_opts.enabled: false
+2021/05/25-13:09:42.633907 cdc      Options.level0_file_num_compaction_trigger: 4
+2021/05/25-13:09:42.634010 cdc          Options.level0_slowdown_writes_trigger: 20
+2021/05/25-13:09:42.634044 cdc              Options.level0_stop_writes_trigger: 36
+2021/05/25-13:09:42.634077 cdc                   Options.target_file_size_base: 67108864
+2021/05/25-13:09:42.634120 cdc             Options.target_file_size_multiplier: 1
+2021/05/25-13:09:42.634153 cdc                Options.max_bytes_for_level_base: 268435456
+2021/05/25-13:09:42.634178 cdc Options.level_compaction_dynamic_level_bytes: 0
+2021/05/25-13:09:42.634328 cdc          Options.max_bytes_for_level_multiplier: 10.000000
+2021/05/25-13:09:42.634352 cdc Options.max_bytes_for_level_multiplier_addtl[0]: 1
+2021/05/25-13:09:42.634376 cdc Options.max_bytes_for_level_multiplier_addtl[1]: 1
+2021/05/25-13:09:42.634423 cdc Options.max_bytes_for_level_multiplier_addtl[2]: 1
+2021/05/25-13:09:42.634437 cdc Options.max_bytes_for_level_multiplier_addtl[3]: 1
+2021/05/25-13:09:42.634512 cdc Options.max_bytes_for_level_multiplier_addtl[4]: 1
+2021/05/25-13:09:42.634608 cdc Options.max_bytes_for_level_multiplier_addtl[5]: 1
+2021/05/25-13:09:42.634620 cdc Options.max_bytes_for_level_multiplier_addtl[6]: 1
+2021/05/25-13:09:42.634735 cdc       Options.max_sequential_skip_in_iterations: 8
+2021/05/25-13:09:42.634854 cdc                    Options.max_compaction_bytes: 1677721600
+2021/05/25-13:09:42.634992 cdc                        Options.arena_block_size: 2093056
+2021/05/25-13:09:42.635011 cdc   Options.soft_pending_compaction_bytes_limit: 68719476736
+2021/05/25-13:09:42.635110 cdc   Options.hard_pending_compaction_bytes_limit: 274877906944
+2021/05/25-13:09:42.635129 cdc       Options.rate_limit_delay_max_milliseconds: 100
+2021/05/25-13:09:42.635140 cdc                Options.disable_auto_compactions: 0
+2021/05/25-13:09:42.635148 cdc                        Options.compaction_style: kCompactionStyleLevel
+2021/05/25-13:09:42.635474 cdc                          Options.compaction_pri: kMinOverlappingRatio
+2021/05/25-13:09:42.635488 cdc Options.compaction_options_universal.size_ratio: 1
+2021/05/25-13:09:42.635719 cdc Options.compaction_options_universal.min_merge_width: 2
+2021/05/25-13:09:42.635816 cdc Options.compaction_options_universal.max_merge_width: 4294967295
+2021/05/25-13:09:42.635909 cdc Options.compaction_options_universal.max_size_amplification_percent: 200
+2021/05/25-13:09:42.636107 cdc Options.compaction_options_universal.compression_size_percent: -1
+2021/05/25-13:09:42.636183 cdc Options.compaction_options_universal.stop_style: kCompactionStopStyleTotalSize
+2021/05/25-13:09:42.636398 cdc Options.compaction_options_fifo.max_table_files_size: 1073741824
+2021/05/25-13:09:42.636540 cdc Options.compaction_options_fifo.allow_compaction: 0
+2021/05/25-13:09:42.636638 cdc                   Options.table_properties_collectors: 
+2021/05/25-13:09:42.636757 cdc                   Options.inplace_update_support: 0
+2021/05/25-13:09:42.636772 cdc                 Options.inplace_update_num_locks: 10000
+2021/05/25-13:09:42.636827 cdc               Options.memtable_prefix_bloom_size_ratio: 0.000000
+2021/05/25-13:09:42.637107 cdc               Options.memtable_whole_key_filtering: 0
+2021/05/25-13:09:42.637145 cdc   Options.memtable_huge_page_size: 0
+2021/05/25-13:09:42.637301 cdc                           Options.bloom_locality: 0
+2021/05/25-13:09:42.637432 cdc                    Options.max_successive_merges: 0
+2021/05/25-13:09:42.637451 cdc                Options.optimize_filters_for_hits: 0
+2021/05/25-13:09:42.637461 cdc                Options.paranoid_file_checks: 0
+2021/05/25-13:09:42.637528 cdc                Options.force_consistency_checks: 0
+2021/05/25-13:09:42.637661 cdc                Options.report_bg_io_stats: 0
+2021/05/25-13:09:42.637715 cdc                               Options.ttl: 2592000
+2021/05/25-13:09:42.637868 cdc          Options.periodic_compaction_seconds: 0
+2021/05/25-13:09:42.637882 cdc                    Options.enable_blob_files: false
+2021/05/25-13:09:42.637928 cdc                        Options.min_blob_size: 0
+2021/05/25-13:09:42.638129 cdc                       Options.blob_file_size: 268435456
+2021/05/25-13:09:42.638200 cdc                Options.blob_compression_type: NoCompression
+2021/05/25-13:09:42.643996 cdc [db\version_set.cc:4723] Recovered from manifest file:D:\3310ass3\hivemq-ce-2021.1\data\persistence\retained_messages\040500_R\retained_messages_44/MANIFEST-000005 succeeded,manifest_file_number is 5, next_file_number is 7, last_sequence is 0, log_number is 4,prev_log_number is 0,max_column_family is 0,min_log_number_to_keep is 0
+2021/05/25-13:09:42.644013 cdc [db\version_set.cc:4732] Column family [default] (ID 0), log number is 4
+2021/05/25-13:09:42.645138 cdc EVENT_LOG_v1 {"time_micros": 1621919382645131, "job": 1, "event": "recovery_started", "log_files": [6]}
+2021/05/25-13:09:42.645158 cdc [db\db_impl\db_impl_open.cc:833] Recovering log #6 mode 2
+2021/05/25-13:09:42.646242 cdc [db\version_set.cc:3955] Creating manifest 8
+2021/05/25-13:09:42.670401 cdc EVENT_LOG_v1 {"time_micros": 1621919382670346, "job": 1, "event": "recovery_finished"}
+2021/05/25-13:09:42.674352 cdc [file\delete_scheduler.cc:73] Deleted file D:\3310ass3\hivemq-ce-2021.1\data\persistence\retained_messages\040500_R\retained_messages_44/000006.log immediately, rate_bytes_per_sec 0, total_trash_size 0 max_trash_db_ratio 0.250000
+2021/05/25-13:09:42.690461 cdc [db\db_impl\db_impl_open.cc:1656] SstFileManager instance 0000025AFCDA1600
+2021/05/25-13:09:42.690823 cdc DB pointer 0000025AFC9E68C0

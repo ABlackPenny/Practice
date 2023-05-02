@@ -1,0 +1,227 @@
+2021/05/25-13:09:42.447047 4ffc RocksDB version: 6.13.3
+2021/05/25-13:09:42.447254 4ffc Git sha rocksdb_build_git_sha:@97bf78721b7d9c1fa25e6a9b38b693d45e85196d@
+2021/05/25-13:09:42.447639 4ffc Compile date Oct 15 2020
+2021/05/25-13:09:42.447661 4ffc DB SUMMARY
+2021/05/25-13:09:42.448541 4ffc DB Session ID:  X25ACKNYW2TNH5OMQIA6
+2021/05/25-13:09:42.449738 4ffc CURRENT file:  CURRENT
+2021/05/25-13:09:42.450418 4ffc IDENTITY file:  IDENTITY
+2021/05/25-13:09:42.451017 4ffc MANIFEST file:  MANIFEST-000005 size: 59 Bytes
+2021/05/25-13:09:42.451379 4ffc SST files in D:\3310ass3\hivemq-ce-2021.1\data\persistence\publish_payload_store\040500_R\publish_payload_store_21 dir, Total Num: 0, files: 
+2021/05/25-13:09:42.451766 4ffc Write Ahead Log file in D:\3310ass3\hivemq-ce-2021.1\data\persistence\publish_payload_store\040500_R\publish_payload_store_21: 000006.log size: 388974 ; 
+2021/05/25-13:09:42.452326 4ffc                         Options.error_if_exists: 0
+2021/05/25-13:09:42.452721 4ffc                       Options.create_if_missing: 1
+2021/05/25-13:09:42.452933 4ffc                         Options.paranoid_checks: 1
+2021/05/25-13:09:42.452941 4ffc                                     Options.env: 0000025AF61B6070
+2021/05/25-13:09:42.453125 4ffc                                      Options.fs: Legacy File System
+2021/05/25-13:09:42.453317 4ffc                                Options.info_log: 0000025AF63ED210
+2021/05/25-13:09:42.453874 4ffc                Options.max_file_opening_threads: 16
+2021/05/25-13:09:42.454369 4ffc                              Options.statistics: 0000025AF6177C40
+2021/05/25-13:09:42.454708 4ffc                               Options.use_fsync: 0
+2021/05/25-13:09:42.454879 4ffc                       Options.max_log_file_size: 512000
+2021/05/25-13:09:42.454891 4ffc                  Options.max_manifest_file_size: 1073741824
+2021/05/25-13:09:42.455236 4ffc                   Options.log_file_time_to_roll: 0
+2021/05/25-13:09:42.455245 4ffc                       Options.keep_log_file_num: 2
+2021/05/25-13:09:42.455252 4ffc                    Options.recycle_log_file_num: 0
+2021/05/25-13:09:42.455259 4ffc                         Options.allow_fallocate: 1
+2021/05/25-13:09:42.455433 4ffc                        Options.allow_mmap_reads: 0
+2021/05/25-13:09:42.455604 4ffc                       Options.allow_mmap_writes: 0
+2021/05/25-13:09:42.455784 4ffc                        Options.use_direct_reads: 0
+2021/05/25-13:09:42.456123 4ffc                        Options.use_direct_io_for_flush_and_compaction: 0
+2021/05/25-13:09:42.456300 4ffc          Options.create_missing_column_families: 0
+2021/05/25-13:09:42.456635 4ffc                              Options.db_log_dir: 
+2021/05/25-13:09:42.456819 4ffc                                 Options.wal_dir: D:\3310ass3\hivemq-ce-2021.1\data\persistence\publish_payload_store\040500_R\publish_payload_store_21
+2021/05/25-13:09:42.456830 4ffc                Options.table_cache_numshardbits: 6
+2021/05/25-13:09:42.457168 4ffc                         Options.WAL_ttl_seconds: 0
+2021/05/25-13:09:42.457341 4ffc                       Options.WAL_size_limit_MB: 0
+2021/05/25-13:09:42.457351 4ffc                        Options.max_write_batch_group_size_bytes: 1048576
+2021/05/25-13:09:42.457360 4ffc             Options.manifest_preallocation_size: 4194304
+2021/05/25-13:09:42.457851 4ffc                     Options.is_fd_close_on_exec: 1
+2021/05/25-13:09:42.457862 4ffc                   Options.advise_random_on_open: 1
+2021/05/25-13:09:42.458049 4ffc                    Options.db_write_buffer_size: 0
+2021/05/25-13:09:42.458402 4ffc                    Options.write_buffer_manager: 0000025AF6173CC0
+2021/05/25-13:09:42.458412 4ffc         Options.access_hint_on_compaction_start: 1
+2021/05/25-13:09:42.458420 4ffc  Options.new_table_reader_for_compaction_inputs: 0
+2021/05/25-13:09:42.458607 4ffc           Options.random_access_max_buffer_size: 1048576
+2021/05/25-13:09:42.458961 4ffc                      Options.use_adaptive_mutex: 0
+2021/05/25-13:09:42.459146 4ffc                            Options.rate_limiter: 0000000000000000
+2021/05/25-13:09:42.459822 4ffc     Options.sst_file_manager.rate_bytes_per_sec: 0
+2021/05/25-13:09:42.459845 4ffc                       Options.wal_recovery_mode: 2
+2021/05/25-13:09:42.460016 4ffc                  Options.enable_thread_tracking: 0
+2021/05/25-13:09:42.460342 4ffc                  Options.enable_pipelined_write: 0
+2021/05/25-13:09:42.460514 4ffc                  Options.unordered_write: 0
+2021/05/25-13:09:42.460700 4ffc         Options.allow_concurrent_memtable_write: 1
+2021/05/25-13:09:42.460862 4ffc      Options.enable_write_thread_adaptive_yield: 1
+2021/05/25-13:09:42.461037 4ffc             Options.write_thread_max_yield_usec: 100
+2021/05/25-13:09:42.461389 4ffc            Options.write_thread_slow_yield_usec: 3
+2021/05/25-13:09:42.461736 4ffc                               Options.row_cache: None
+2021/05/25-13:09:42.462083 4ffc                              Options.wal_filter: None
+2021/05/25-13:09:42.462095 4ffc             Options.avoid_flush_during_recovery: 0
+2021/05/25-13:09:42.462274 4ffc             Options.allow_ingest_behind: 0
+2021/05/25-13:09:42.462456 4ffc             Options.preserve_deletes: 0
+2021/05/25-13:09:42.462471 4ffc             Options.two_write_queues: 0
+2021/05/25-13:09:42.462634 4ffc             Options.manual_wal_flush: 0
+2021/05/25-13:09:42.462648 4ffc             Options.atomic_flush: 0
+2021/05/25-13:09:42.462660 4ffc             Options.avoid_unnecessary_blocking_io: 0
+2021/05/25-13:09:42.462835 4ffc                 Options.persist_stats_to_disk: 0
+2021/05/25-13:09:42.462845 4ffc                 Options.write_dbid_to_manifest: 0
+2021/05/25-13:09:42.462854 4ffc                 Options.log_readahead_size: 0
+2021/05/25-13:09:42.463387 4ffc                 Options.file_checksum_gen_factory: Unknown
+2021/05/25-13:09:42.463401 4ffc                 Options.best_efforts_recovery: 0
+2021/05/25-13:09:42.463413 4ffc                Options.max_bgerror_resume_count: 2147483647
+2021/05/25-13:09:42.463786 4ffc            Options.bgerror_resume_retry_interval: 1000000
+2021/05/25-13:09:42.464103 4ffc             Options.max_background_jobs: 2
+2021/05/25-13:09:42.464116 4ffc             Options.max_background_compactions: -1
+2021/05/25-13:09:42.464126 4ffc             Options.max_subcompactions: 1
+2021/05/25-13:09:42.464299 4ffc             Options.avoid_flush_during_shutdown: 0
+2021/05/25-13:09:42.464494 4ffc           Options.writable_file_max_buffer_size: 1048576
+2021/05/25-13:09:42.464508 4ffc             Options.delayed_write_rate : 16777216
+2021/05/25-13:09:42.464689 4ffc             Options.max_total_wal_size: 0
+2021/05/25-13:09:42.464865 4ffc             Options.delete_obsolete_files_period_micros: 21600000000
+2021/05/25-13:09:42.465045 4ffc                   Options.stats_dump_period_sec: 0
+2021/05/25-13:09:42.465232 4ffc                 Options.stats_persist_period_sec: 0
+2021/05/25-13:09:42.465395 4ffc                 Options.stats_history_buffer_size: 65536
+2021/05/25-13:09:42.465412 4ffc                          Options.max_open_files: -1
+2021/05/25-13:09:42.465588 4ffc                          Options.bytes_per_sync: 0
+2021/05/25-13:09:42.465742 4ffc                      Options.wal_bytes_per_sync: 0
+2021/05/25-13:09:42.465763 4ffc                   Options.strict_bytes_per_sync: 0
+2021/05/25-13:09:42.465775 4ffc       Options.compaction_readahead_size: 0
+2021/05/25-13:09:42.465985 4ffc                  Options.max_background_flushes: -1
+2021/05/25-13:09:42.465998 4ffc Compression algorithms supported:
+2021/05/25-13:09:42.466009 4ffc 	kZSTD supported: 1
+2021/05/25-13:09:42.466020 4ffc 	kSnappyCompression supported: 1
+2021/05/25-13:09:42.466032 4ffc 	kBZip2Compression supported: 0
+2021/05/25-13:09:42.466043 4ffc 	kZlibCompression supported: 1
+2021/05/25-13:09:42.466227 4ffc 	kLZ4Compression supported: 1
+2021/05/25-13:09:42.466628 4ffc 	kXpressCompression supported: 0
+2021/05/25-13:09:42.467225 4ffc 	kLZ4HCCompression supported: 1
+2021/05/25-13:09:42.467391 4ffc 	kZSTDNotFinalCompression supported: 1
+2021/05/25-13:09:42.467405 4ffc Fast CRC32 supported: Supported on x86
+2021/05/25-13:09:42.468681 4ffc [db\version_set.cc:4565] Recovering from manifest file: D:\3310ass3\hivemq-ce-2021.1\data\persistence\publish_payload_store\040500_R\publish_payload_store_21/MANIFEST-000005
+2021/05/25-13:09:42.468877 4ffc [db\column_family.cc:592] --------------- Options for column family [default]:
+2021/05/25-13:09:42.468895 4ffc               Options.comparator: leveldb.BytewiseComparator
+2021/05/25-13:09:42.468907 4ffc           Options.merge_operator: None
+2021/05/25-13:09:42.469102 4ffc        Options.compaction_filter: None
+2021/05/25-13:09:42.469113 4ffc        Options.compaction_filter_factory: None
+2021/05/25-13:09:42.469299 4ffc  Options.sst_partitioner_factory: None
+2021/05/25-13:09:42.469310 4ffc         Options.memtable_factory: SkipListFactory
+2021/05/25-13:09:42.469659 4ffc            Options.table_factory: BlockBasedTable
+2021/05/25-13:09:42.469873 4ffc            table_factory options:   flush_block_policy_factory: FlushBlockBySizePolicyFactory (0000025AF5C8B260)
+  cache_index_and_filter_blocks: 0
+  cache_index_and_filter_blocks_with_high_priority: 1
+  pin_l0_filter_and_index_blocks_in_cache: 0
+  pin_top_level_index_and_filter: 1
+  index_type: 0
+  data_block_index_type: 0
+  index_shortening: 1
+  data_block_hash_table_util_ratio: 0.750000
+  hash_index_allow_collision: 1
+  checksum: 1
+  no_block_cache: 0
+  block_cache: 0000025AF62D2690
+  block_cache_name: LRUCache
+  block_cache_options:
+    capacity : 535126528
+    num_shard_bits : 6
+    strict_capacity_limit : 0
+    memory_allocator : None
+    high_pri_pool_ratio: 0.000
+  block_cache_compressed: 0000000000000000
+  persistent_cache: 0000000000000000
+  block_size: 32768
+  block_size_deviation: 10
+  block_restart_interval: 16
+  index_block_restart_interval: 1
+  metadata_block_size: 4096
+  partition_filters: 0
+  use_delta_encoding: 1
+  filter_policy: nullptr
+  whole_key_filtering: 1
+  verify_compression: 0
+  read_amp_bytes_per_bit: 0
+  format_version: 4
+  enable_index_compression: 1
+  block_align: 0
+2021/05/25-13:09:42.469887 4ffc        Options.write_buffer_size: 16722704
+2021/05/25-13:09:42.470066 4ffc  Options.max_write_buffer_number: 2
+2021/05/25-13:09:42.470648 4ffc          Options.compression: Snappy
+2021/05/25-13:09:42.470822 4ffc                  Options.bottommost_compression: Disabled
+2021/05/25-13:09:42.471367 4ffc       Options.prefix_extractor: nullptr
+2021/05/25-13:09:42.471923 4ffc   Options.memtable_insert_with_hint_prefix_extractor: nullptr
+2021/05/25-13:09:42.472115 4ffc             Options.num_levels: 7
+2021/05/25-13:09:42.472127 4ffc        Options.min_write_buffer_number_to_merge: 1
+2021/05/25-13:09:42.472135 4ffc     Options.max_write_buffer_number_to_maintain: 0
+2021/05/25-13:09:42.472321 4ffc     Options.max_write_buffer_size_to_maintain: 0
+2021/05/25-13:09:42.472330 4ffc            Options.bottommost_compression_opts.window_bits: -14
+2021/05/25-13:09:42.472666 4ffc                  Options.bottommost_compression_opts.level: 32767
+2021/05/25-13:09:42.472853 4ffc               Options.bottommost_compression_opts.strategy: 0
+2021/05/25-13:09:42.473082 4ffc         Options.bottommost_compression_opts.max_dict_bytes: 0
+2021/05/25-13:09:42.473441 4ffc         Options.bottommost_compression_opts.zstd_max_train_bytes: 0
+2021/05/25-13:09:42.473964 4ffc         Options.bottommost_compression_opts.parallel_threads: 1
+2021/05/25-13:09:42.474487 4ffc                  Options.bottommost_compression_opts.enabled: false
+2021/05/25-13:09:42.474676 4ffc            Options.compression_opts.window_bits: -14
+2021/05/25-13:09:42.475342 4ffc                  Options.compression_opts.level: 32767
+2021/05/25-13:09:42.475353 4ffc               Options.compression_opts.strategy: 0
+2021/05/25-13:09:42.475525 4ffc         Options.compression_opts.max_dict_bytes: 0
+2021/05/25-13:09:42.475541 4ffc         Options.compression_opts.zstd_max_train_bytes: 0
+2021/05/25-13:09:42.475724 4ffc         Options.compression_opts.parallel_threads: 1
+2021/05/25-13:09:42.475917 4ffc                  Options.compression_opts.enabled: false
+2021/05/25-13:09:42.476102 4ffc      Options.level0_file_num_compaction_trigger: 4
+2021/05/25-13:09:42.476274 4ffc          Options.level0_slowdown_writes_trigger: 20
+2021/05/25-13:09:42.476620 4ffc              Options.level0_stop_writes_trigger: 36
+2021/05/25-13:09:42.476800 4ffc                   Options.target_file_size_base: 67108864
+2021/05/25-13:09:42.476983 4ffc             Options.target_file_size_multiplier: 1
+2021/05/25-13:09:42.476997 4ffc                Options.max_bytes_for_level_base: 268435456
+2021/05/25-13:09:42.477356 4ffc Options.level_compaction_dynamic_level_bytes: 0
+2021/05/25-13:09:42.477687 4ffc          Options.max_bytes_for_level_multiplier: 10.000000
+2021/05/25-13:09:42.477699 4ffc Options.max_bytes_for_level_multiplier_addtl[0]: 1
+2021/05/25-13:09:42.477867 4ffc Options.max_bytes_for_level_multiplier_addtl[1]: 1
+2021/05/25-13:09:42.478333 4ffc Options.max_bytes_for_level_multiplier_addtl[2]: 1
+2021/05/25-13:09:42.478500 4ffc Options.max_bytes_for_level_multiplier_addtl[3]: 1
+2021/05/25-13:09:42.478946 4ffc Options.max_bytes_for_level_multiplier_addtl[4]: 1
+2021/05/25-13:09:42.479103 4ffc Options.max_bytes_for_level_multiplier_addtl[5]: 1
+2021/05/25-13:09:42.479502 4ffc Options.max_bytes_for_level_multiplier_addtl[6]: 1
+2021/05/25-13:09:42.479654 4ffc       Options.max_sequential_skip_in_iterations: 8
+2021/05/25-13:09:42.480068 4ffc                    Options.max_compaction_bytes: 1677721600
+2021/05/25-13:09:42.480081 4ffc                        Options.arena_block_size: 2093056
+2021/05/25-13:09:42.480532 4ffc   Options.soft_pending_compaction_bytes_limit: 68719476736
+2021/05/25-13:09:42.480807 4ffc   Options.hard_pending_compaction_bytes_limit: 274877906944
+2021/05/25-13:09:42.480935 4ffc       Options.rate_limit_delay_max_milliseconds: 100
+2021/05/25-13:09:42.481067 4ffc                Options.disable_auto_compactions: 0
+2021/05/25-13:09:42.481078 4ffc                        Options.compaction_style: kCompactionStyleLevel
+2021/05/25-13:09:42.481323 4ffc                          Options.compaction_pri: kMinOverlappingRatio
+2021/05/25-13:09:42.481739 4ffc Options.compaction_options_universal.size_ratio: 1
+2021/05/25-13:09:42.481874 4ffc Options.compaction_options_universal.min_merge_width: 2
+2021/05/25-13:09:42.481887 4ffc Options.compaction_options_universal.max_merge_width: 4294967295
+2021/05/25-13:09:42.482099 4ffc Options.compaction_options_universal.max_size_amplification_percent: 200
+2021/05/25-13:09:42.482325 4ffc Options.compaction_options_universal.compression_size_percent: -1
+2021/05/25-13:09:42.482624 4ffc Options.compaction_options_universal.stop_style: kCompactionStopStyleTotalSize
+2021/05/25-13:09:42.482638 4ffc Options.compaction_options_fifo.max_table_files_size: 1073741824
+2021/05/25-13:09:42.482825 4ffc Options.compaction_options_fifo.allow_compaction: 0
+2021/05/25-13:09:42.482922 4ffc                   Options.table_properties_collectors: 
+2021/05/25-13:09:42.483050 4ffc                   Options.inplace_update_support: 0
+2021/05/25-13:09:42.483192 4ffc                 Options.inplace_update_num_locks: 10000
+2021/05/25-13:09:42.483210 4ffc               Options.memtable_prefix_bloom_size_ratio: 0.000000
+2021/05/25-13:09:42.483244 4ffc               Options.memtable_whole_key_filtering: 0
+2021/05/25-13:09:42.483624 4ffc   Options.memtable_huge_page_size: 0
+2021/05/25-13:09:42.483691 4ffc                           Options.bloom_locality: 0
+2021/05/25-13:09:42.483763 4ffc                    Options.max_successive_merges: 0
+2021/05/25-13:09:42.483785 4ffc                Options.optimize_filters_for_hits: 0
+2021/05/25-13:09:42.483826 4ffc                Options.paranoid_file_checks: 0
+2021/05/25-13:09:42.483917 4ffc                Options.force_consistency_checks: 0
+2021/05/25-13:09:42.483945 4ffc                Options.report_bg_io_stats: 0
+2021/05/25-13:09:42.483964 4ffc                               Options.ttl: 2592000
+2021/05/25-13:09:42.484075 4ffc          Options.periodic_compaction_seconds: 0
+2021/05/25-13:09:42.484108 4ffc                    Options.enable_blob_files: false
+2021/05/25-13:09:42.484189 4ffc                        Options.min_blob_size: 0
+2021/05/25-13:09:42.484205 4ffc                       Options.blob_file_size: 268435456
+2021/05/25-13:09:42.484248 4ffc                Options.blob_compression_type: NoCompression
+2021/05/25-13:09:42.511799 4ffc [db\version_set.cc:4723] Recovered from manifest file:D:\3310ass3\hivemq-ce-2021.1\data\persistence\publish_payload_store\040500_R\publish_payload_store_21/MANIFEST-000005 succeeded,manifest_file_number is 5, next_file_number is 7, last_sequence is 0, log_number is 4,prev_log_number is 0,max_column_family is 0,min_log_number_to_keep is 0
+2021/05/25-13:09:42.511842 4ffc [db\version_set.cc:4732] Column family [default] (ID 0), log number is 4
+2021/05/25-13:09:42.512586 4ffc EVENT_LOG_v1 {"time_micros": 1621919382512578, "job": 1, "event": "recovery_started", "log_files": [6]}
+2021/05/25-13:09:42.512621 4ffc [db\db_impl\db_impl_open.cc:833] Recovering log #6 mode 2
+2021/05/25-13:09:42.548564 4ffc EVENT_LOG_v1 {"time_micros": 1621919382548526, "cf_name": "default", "job": 1, "event": "table_file_creation", "file_number": 7, "file_size": 47285, "file_checksum": "", "file_checksum_func_name": "Unknown", "table_properties": {"data_size": 46408, "index_size": 66, "index_partitions": 0, "top_level_index_size": 0, "index_key_is_user_key": 1, "index_value_is_delta_encoded": 1, "filter_size": 0, "raw_key_size": 96560, "raw_average_key_size": 16, "raw_value_size": 0, "raw_average_value_size": 0, "num_data_blocks": 3, "num_entries": 6035, "num_deletions": 6035, "num_merge_operands": 0, "num_range_deletions": 0, "format_version": 0, "fixed_key_len": 0, "filter_policy": "", "column_family_name": "default", "column_family_id": 0, "comparator": "leveldb.BytewiseComparator", "merge_operator": "nullptr", "prefix_extractor_name": "nullptr", "property_collectors": "[]", "compression": "Snappy", "compression_options": "window_bits=-14; level=32767; strategy=0; max_dict_bytes=0; zstd_max_train_bytes=0; enabled=0; ", "creation_time": 1621919382, "oldest_key_time": 0, "file_creation_time": 0, "db_id": "8c25d0c1-bc57-11eb-9196-d45d64b3e270", "db_session_id": "X25ACKNYW2TNH5OMQIA6"}}
+2021/05/25-13:09:42.548691 4ffc [db\version_set.cc:3955] Creating manifest 8
+2021/05/25-13:09:42.591029 4ffc EVENT_LOG_v1 {"time_micros": 1621919382591023, "job": 1, "event": "recovery_finished"}
+2021/05/25-13:09:42.596176 4ffc [file\delete_scheduler.cc:73] Deleted file D:\3310ass3\hivemq-ce-2021.1\data\persistence\publish_payload_store\040500_R\publish_payload_store_21/000006.log immediately, rate_bytes_per_sec 0, total_trash_size 0 max_trash_db_ratio 0.250000
+2021/05/25-13:09:42.615666 4ffc [db\db_impl\db_impl_open.cc:1656] SstFileManager instance 0000025AF66B23E0
+2021/05/25-13:09:42.615822 4ffc DB pointer 0000025AF5F020D0
